@@ -1,0 +1,33 @@
+1. Domain with highest value for "avg_session_duration":
+usastaffing.opm.gov (3008.53)
+
+2. Domains with more than 50 "pageviews_per_session":
+usatrade.census.gov
+local-collections.nlm.nih.gov
+sefsc.noaa.gov
+streamstatsags.cr.usgs.gov
+collectionsqa.nlm.nih.gov
+usastaffing.opm.gov
+etas.uspto.gov
+
+3. NASA domains with at least 100,000 visits:
+nasa.gov
+apod.nasa.gov
+spotthestation.nasa.gov
+jpl.nasa.gov
+mars.nasa.gov
+solarsystem.nasa.gov
+earthobservatory.nasa.gov
+grc.nasa.gov
+climate.nasa.gov
+nasasearch.nasa.gov
+science.nasa.gov
+spaceplace.nasa.gov
+starchild.gsfc.nasa.gov
+voyager.jpl.nasa.gov
+intern.nasa.gov
+m.earthobservatory.nasa.gov
+eol.jsc.nasa.gov
+saturn.jpl.nasa.gov
+history.nasa.gov
+ntrs.nasa.gov
