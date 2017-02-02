@@ -1,0 +1,17 @@
+1) What percentage of the characters were non-white?
+5.30%
+
+2) What percentage of the characters were women?
+29.45%
+
+3) Which cartoonist had the highest percentage of non-white characters?
+Suits, at 40%
+
+4) What percentage of the characters were both non-white and female?
+1.38%
+
+5) Write a paragraph that summarizes your key findings.
+
+Based on the data, the characters in the New Yorker cartoons are mostly white males.
+There are few females represented and even fewer non-whites. Suits drew the most non-white characters at 40%.
+However, there are many cartoonists who only drew white characters, and several who only drew men.
